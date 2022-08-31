@@ -1,4 +1,4 @@
-# Deep-Learning-Projects
+# Image detection using CIFAR-10 dataset
 Trained and evaluated a Deep Learning model similar to VGG architecture. 
 
 Performced several experiments to improve the accuracy if the model. 
